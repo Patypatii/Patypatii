@@ -39,7 +39,7 @@
 ## 🚀 Achievements
 
 - 🏆 **Top 1% React Developer on Upwork**
-- 🧠 **Created Outlier Bypass AI Tool** with Puppeteer + React
+- 🧠 **Created multiple chrome exensions such as web scrapping
 - 📽️ **Award-winning 3D Logo Animations** for multiple tech brands
 - 🧑‍🎓 Certified in **3D Animation** (Dedan Kimathi University)
 - 💼 Founder of **3D Pixels** — creative design & tech branding agency
