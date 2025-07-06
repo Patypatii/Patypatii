@@ -1,6 +1,6 @@
 <!-- Animated Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Patrick+Wambugu;Software+Engineer+|+3D+Animator;Building+for+Web,+Mobile+&+Future&font=Fira+Code&center=true&width=600&height=45&color=F7F7F7&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Patrick+Wambugu;Software+Developer+|+3D+Animator;Building+for+Web,+Mobile+&+Future&font=Orbitron&center=true&width=600&height=45&color=F7F7F7&vCenter=true&pause=1000&size=22" />
 </h1>
 
 <div align="center">
@@ -14,6 +14,7 @@
 - 🚀 Tech-driven software developer & 3D motion artist  
 - 🛠️ I specialize in **React**, **React Native**, **Node.js**, **NestJS**, and **3D animation** with **Blender & Adobe Suite**  
 - 🌍 Currently building tools that combine **AI + motion + frontend performance**
+- 📚 Lately learning **C#** and **.NET** to expand my backend and enterprise app development skills.
 
 ---
 
@@ -39,7 +40,7 @@
 ## 🚀 Achievements
 
 - 🏆 **Top 1% Developer that combines 3D Animation and coding**
-- 🧠 **Created multiple chrome exensions such as web scrapping
+- 🧠 **Created multiple chrome exensions such as web scrapping**
 - 📽️ **Award-winning 3D Logo Animations** for multiple tech brands
 - 🧑‍🎓 Certified in **3D Animation** (Dedan Kimathi University)
 - 💼 Founder of **3D Pixels** — creative design & tech branding agency
