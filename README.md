@@ -38,7 +38,7 @@
 
 ## 🚀 Achievements
 
-- 🏆 **Top 1% React Developer on Upwork**
+- 🏆 **Top 1% Developer that combines 3D Animation and coding**
 - 🧠 **Created multiple chrome exensions such as web scrapping
 - 📽️ **Award-winning 3D Logo Animations** for multiple tech brands
 - 🧑‍🎓 Certified in **3D Animation** (Dedan Kimathi University)
