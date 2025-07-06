@@ -112,8 +112,9 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/Patypatii/count.svg" />
 </p>
+<!-- ⭐ Follow & Star Animated Message -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=⭐+Enjoying+my+work%3F+Give+it+a+Star!;🚀+Follow+me+for+more+awesome+projects!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=%E2%AD%90+Enjoying+my+work%3F+Give+it+a+Star!;%F0%9F%9A%80+Follow+me+for+more+awesome+projects!" alt="Follow and Star Typing Animation" />
 </h3>
 
 <p align="center">
@@ -125,6 +126,7 @@
     <img src="https://img.shields.io/github/followers/Patypatii?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 </p>
+
 
 
 <!-- Made with 💡 by Patrick Wambugu | 3D Pixels -->
