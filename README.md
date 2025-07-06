@@ -110,7 +110,8 @@
 ### 🔢 Visitor Counter
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Patypatii&icon=0&color=6" />
+  <img src="https://profile-counter.glitch.me/Patypatii/count.svg" />
 </p>
+<p align="center"> If you found my work helpful or inspiring, please consider giving a ⭐️ to my repositories and following me on GitHub! <br/><br/> <a href="https://github.com/Patypatii?tab=repositories"> <img src="https://img.shields.io/github/stars/Patypatii?style=social" alt="GitHub Stars" /> </a> &nbsp; <a href="https://github.com/Patypatii"> <img src="https://img.shields.io/github/followers/Patypatii?label=Follow&style=social" alt="GitHub Followers" /> </a> </p>
 
 <!-- Made with 💡 by Patrick Wambugu | 3D Pixels -->
