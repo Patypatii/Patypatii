@@ -112,12 +112,11 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/Patypatii/count.svg" />
 </p>
-### 🌟 Stay Connected
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=⭐+Enjoying+my+work%3F+Give+it+a+Star!;🚀+Follow+me+for+more+awesome+projects!" />
+</h3>
 
 <p align="center">
-  🚀 If you found my work helpful or inspiring, please consider  
-  <strong>starring ⭐️ my repositories and following me!</strong>
-  <br/><br/>
   <a href="https://github.com/Patypatii?tab=repositories">
     <img src="https://img.shields.io/github/stars/Patypatii?style=social" alt="GitHub Stars" />
   </a>
@@ -126,5 +125,6 @@
     <img src="https://img.shields.io/github/followers/Patypatii?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 </p>
+
 
 <!-- Made with 💡 by Patrick Wambugu | 3D Pixels -->
