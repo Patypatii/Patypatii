@@ -9,7 +9,11 @@
 
 ---
 
-## 🧠 About Me
+<h2 align="center">
+  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
+    🧠 About Me
+  </span>
+</h2>
 
 - 🚀 Tech-driven software developer & 3D motion artist  
 - 🛠️ I specialize in **React**, **React Native**, **Node.js**, **NestJS**, and **3D animation** with **Blender & Adobe Suite**  
@@ -18,7 +22,11 @@
 
 ---
 
-## 📈 Stats & Contributions
+<h2 align="center">
+  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
+    📈 Stats & Contributions
+  </span>
+</h2>
 
 <table>
   <tr>
@@ -37,7 +45,11 @@
 
 ---
 
-## 🚀 Achievements
+<h2 align="center">
+  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
+    🚀 Achievements
+  </span>
+</h2>
 
 - 🏆 **Top 1% Developer that combines 3D Animation and coding**
 - 🧠 **Created multiple chrome extensions such as web scraping**
@@ -47,7 +59,11 @@
 
 ---
 
-## 🧰 Tech Stack
+<h2 align="center">
+  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
+    🧰 Tech Stack
+  </span>
+</h2>
 
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -75,7 +91,11 @@
 
 ---
 
-## 🌍 Connect with Me
+<h2 align="center">
+  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
+    🌍 Connect with Me
+  </span>
+</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/patrickwambugu">
@@ -91,7 +111,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">
+  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
+    🏆 GitHub Trophies
+  </span>
+</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Patypatii&theme=gradient&no-frame=true&row=1&margin-w=8&title_color=00bfff&bg_color=0c0c0c" />
@@ -99,7 +123,11 @@
 
 ---
 
-## 💬 Dev Quote
+<h2 align="center">
+  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
+    💬 Dev Quote
+  </span>
+</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -107,7 +135,11 @@
 
 ---
 
-### 🔢 Visitor Counter (Styled)
+<h2 align="center">
+  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
+    🔢 Visitor Counter
+  </span>
+</h2>
 
 <p align="center">
   <a href="https://github.com/Patypatii">
