@@ -1,69 +1,52 @@
-<!-- Animated Intro -->
+<!-- 🧠 Custom GitHub Profile README for Patrick Wambugu -->
+
+<!-- Banner Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Patrick+Wambugu;Software+Developer+|+3D+Animator;Building+for+Web,+Mobile+&+Future&font=Orbitron&center=true&width=600&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
+  <img src="https://raw.githubusercontent.com/Patypatii/Patypatii/main/assets/branding-banner.png" alt="Patrick Wambugu - Banner" style="width:100%; border-radius:12px;" />
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-</div>
+---
+
+## <span style="background: linear-gradient(to right, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent; font-weight: bold;">🧠 About Me</span>
+
+- 💻 Full-stack software developer + 3D Motion Artist  
+- ⚡ Building apps with **React**, **React Native**, **Node.js**, **NestJS**
+- 🎬 Creating animations using **Blender** and **Adobe Suite**
+- 🧠 Exploring **AI + frontend performance + motion design**
+- 🔍 Currently learning **C# and .NET**
 
 ---
 
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
-    🧠 About Me
-  </span>
-</h2>
-
-- 🚀 Tech-driven software developer & 3D motion artist  
-- 🛠️ I specialize in **React**, **React Native**, **Node.js**, **NestJS**, and **3D animation** with **Blender & Adobe Suite**  
-- 🌍 Currently building tools that combine **AI + motion + frontend performance**
-- 📚 Lately learning **C#** and **.NET** to expand my backend and enterprise app development skills.
-
----
-
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
-    📈 Stats & Contributions
-  </span>
-</h2>
+## <span style="background: linear-gradient(to right, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent; font-weight: bold;">📈 GitHub Stats</span>
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Patypatii&show_icons=true&theme=blueberry&hide_border=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Patypatii&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patypatii&layout=compact&theme=blueberry&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patypatii&layout=compact&theme=transparent&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Patypatii&theme=blueberry&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Patypatii&theme=blue-green&hide_border=true" />
 </div>
 
 ---
 
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
-    🚀 Achievements
-  </span>
-</h2>
+## <span style="background: linear-gradient(to right, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent; font-weight: bold;">🚀 Achievements</span>
 
-- 🏆 **Top 1% Developer that combines 3D Animation and coding**
-- 🧠 **Created multiple chrome extensions such as web scraping**
-- 📽️ **Award-winning 3D Logo Animations** for multiple tech brands
-- 🧑‍🎓 Certified in **3D Animation** (Dedan Kimathi University)
-- 💼 Founder of **3D Pixels** — creative design & tech branding agency
+- 🏆 **Top 1% Developer** blending 3D + Web Dev
+- 🔧 Built multiple **Chrome extensions** and AI integrations
+- 🎖️ Created **award-winning 3D logo animations**
+- 🧑‍🎓 Certified in **3D Animation** – *Dedan Kimathi University*
+- 👨‍💼 Founder – **3D Pixels**, a creative design agency
 
 ---
 
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
-    🧰 Tech Stack
-  </span>
-</h2>
+## 🧰 Tech Stack
 
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -91,77 +74,41 @@
 
 ---
 
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
-    🌍 Connect with Me
-  </span>
-</h2>
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/patrickwambugu">
-    <img src="https://img.shields.io/badge/LinkedIn-0c0c0c?style=for-the-badge&logo=linkedin&logoColor=00bfff" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:patrickwambugu707@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0c0c0c?style=for-the-badge&logo=gmail&logoColor=a67cff" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://mastodon.social/@PatrickWambugu">
-    <img src="https://img.shields.io/badge/Mastodon-0c0c0c?style=for-the-badge&logo=mastodon&logoColor=00bfff" />
+    <img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
-    🏆 GitHub Trophies
-  </span>
-</h2>
+## 💡 Dev Quote
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Patypatii&theme=gradient&no-frame=true&row=1&margin-w=8&title_color=00bfff&bg_color=0c0c0c" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
-    💬 Dev Quote
-  </span>
-</h2>
+## 🔢 Visitor Counter
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://profile-counter.glitch.me/Patypatii/count.svg" />
 </p>
 
 ---
 
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent;">
-    🔢 Visitor Counter
-  </span>
-</h2>
-
+### ⭐ Star if you enjoy this:
 <p align="center">
-  <a href="https://github.com/Patypatii">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Patypatii&count_bg=00bfff&title_bg=a67cff&icon=github.svg&icon_color=ffffff&title=visitors&edge_flat=false"/>
-  </a>
-</p>
-
----
-
-<!-- ⭐ Follow & Star Animated Message -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00BFFF,A67CFF&center=true&vCenter=true&width=600&lines=%E2%AD%90+Enjoying+my+work%3F+Give+it+a+Star!;%F0%9F%9A%80+Follow+me+for+more+awesome+projects!" />
-</h3>
-
-<p align="center">
-  <a href="https://github.com/Patypatii?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Patypatii?style=social" alt="GitHub Stars" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Patypatii">
-    <img src="https://img.shields.io/github/followers/Patypatii?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00BFFF&vCenter=true&width=600&lines=%E2%AD%90+Love+my+work%3F+Star+and+Follow!;%F0%9F%9A%80+More+coming+soon..." />
 </p>
 
 <!-- Made with 💡 by Patrick Wambugu | 3D Pixels -->
