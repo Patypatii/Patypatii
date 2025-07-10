@@ -110,7 +110,7 @@
 ### 🔢 Visitor Counter
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Patypatii.Patypatii&left_color=00bfff&right_color=a67cff" />
+  <img src="https://realdem.github.io/visitor-badge/github?username=Patypatii&style=flat&color=00bfff&label=Visitors" />
 </p>
 
 <!-- ⭐ Follow & Star Animated Message -->
