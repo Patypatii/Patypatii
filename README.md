@@ -1,31 +1,32 @@
-<!-- 🧠 Custom GitHub Profile README for Patrick Wambugu -->
-
-<!-- Banner Section -->
+<!-- Animated Intro -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Patypatii/Patypatii/main/assets/branding-banner.png" alt="Patrick Wambugu - Banner" style="width:100%; border-radius:12px;" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Patrick+Wambugu;Software+Developer+|+3D+Animator;Building+for+Web,+Mobile+&+Future&font=Orbitron&center=true&width=600&height=45&color=00bfff&vCenter=true&pause=1000&size=22" />
 </h1>
 
----
-
-## <span style="background: linear-gradient(to right, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent; font-weight: bold;">🧠 About Me</span>
-
-- 💻 Full-stack software developer + 3D Motion Artist  
-- ⚡ Building apps with **React**, **React Native**, **Node.js**, **NestJS**
-- 🎬 Creating animations using **Blender** and **Adobe Suite**
-- 🧠 Exploring **AI + frontend performance + motion design**
-- 🔍 Currently learning **C# and .NET**
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+</div>
 
 ---
 
-## <span style="background: linear-gradient(to right, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent; font-weight: bold;">📈 GitHub Stats</span>
+## 🧠 About Me
+
+- 🚀 Tech-driven software developer & 3D motion artist  
+- 🛠️ I specialize in **React**, **React Native**, **Node.js**, **NestJS**, and **3D animation** with **Blender & Adobe Suite**  
+- 🌍 Currently building tools that combine **AI + motion + frontend performance**
+- 📚 Lately learning **C#** and **.NET** to expand my backend and enterprise app development skills.
+
+---
+
+## 📈 Stats & Contributions
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Patypatii&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Patypatii&show_icons=true&theme=radical&hide_border=true&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patypatii&layout=compact&theme=transparent&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patypatii&layout=compact&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -36,13 +37,13 @@
 
 ---
 
-## <span style="background: linear-gradient(to right, #00bfff, #a67cff); -webkit-background-clip: text; color: transparent; font-weight: bold;">🚀 Achievements</span>
+## 🚀 Achievements
 
-- 🏆 **Top 1% Developer** blending 3D + Web Dev
-- 🔧 Built multiple **Chrome extensions** and AI integrations
-- 🎖️ Created **award-winning 3D logo animations**
-- 🧑‍🎓 Certified in **3D Animation** – *Dedan Kimathi University*
-- 👨‍💼 Founder – **3D Pixels**, a creative design agency
+- 🏆 **Top 1% Developer that combines 3D Animation and coding**
+- 🧠 **Created multiple chrome exensions such as web scrapping**
+- 📽️ **Award-winning 3D Logo Animations** for multiple tech brands
+- 🧑‍🎓 Certified in **3D Animation** (Dedan Kimathi University)
+- 💼 Founder of **3D Pixels** — creative design & tech branding agency
 
 ---
 
@@ -74,7 +75,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌍 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/patrickwambugu">
@@ -90,7 +91,15 @@
 
 ---
 
-## 💡 Dev Quote
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Patypatii&theme=radical&no-frame=true&row=1&margin-w=8" />
+</p>
+
+---
+
+## 💬 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -98,17 +107,25 @@
 
 ---
 
-## 🔢 Visitor Counter
+### 🔢 Visitor Counter
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Patypatii/count.svg" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Patypatii.Patypatii&left_color=00bfff&right_color=a67cff" />
 </p>
 
----
+<!-- ⭐ Follow & Star Animated Message -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00bfff&center=true&vCenter=true&width=600&lines=%E2%AD%90+Enjoying+my+work%3F+Give+it+a+Star!;%F0%9F%9A%80+Follow+me+for+more+awesome+projects!" alt="Follow and Star Typing Animation" />
+</h3>
 
-### ⭐ Star if you enjoy this:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00BFFF&vCenter=true&width=600&lines=%E2%AD%90+Love+my+work%3F+Star+and+Follow!;%F0%9F%9A%80+More+coming+soon..." />
+  <a href="https://github.com/Patypatii?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Patypatii?style=social" alt="GitHub Stars" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Patypatii">
+    <img src="https://img.shields.io/github/followers/Patypatii?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
 </p>
 
 <!-- Made with 💡 by Patrick Wambugu | 3D Pixels -->
