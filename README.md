@@ -23,16 +23,16 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Patypatii&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Patypatii&show_icons=true&theme=blueberry&hide_border=true&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patypatii&layout=compact&theme=chartreuse-dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patypatii&layout=compact&theme=blueberry&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Patypatii&theme=radical&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Patypatii&theme=blueberry&hide_border=true" />
 </div>
 
 ---
@@ -40,7 +40,7 @@
 ## 🚀 Achievements
 
 - 🏆 **Top 1% Developer that combines 3D Animation and coding**
-- 🧠 **Created multiple chrome exensions such as web scrapping**
+- 🧠 **Created multiple chrome extensions such as web scraping**
 - 📽️ **Award-winning 3D Logo Animations** for multiple tech brands
 - 🧑‍🎓 Certified in **3D Animation** (Dedan Kimathi University)
 - 💼 Founder of **3D Pixels** — creative design & tech branding agency
@@ -50,28 +50,28 @@
 ## 🧰 Tech Stack
 
 ### 🖥️ Frontend
-![React](https://img.shields.io/badge/react-0c0c0c?style=for-the-badge&logo=react&logoColor=00bfff)
-![Next.js](https://img.shields.io/badge/next.js-0c0c0c?style=for-the-badge&logo=next.js&logoColor=a67cff)
-![React Native](https://img.shields.io/badge/react_native-0c0c0c?style=for-the-badge&logo=react&logoColor=00bfff)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0c0c0c?style=for-the-badge&logo=tailwind-css&logoColor=a67cff)
+![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js)
+![React Native](https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
 
 ### 🔧 Backend
-![NodeJS](https://img.shields.io/badge/node.js-0c0c0c?style=for-the-badge&logo=node.js&logoColor=00bfff)
-![NestJS](https://img.shields.io/badge/nestjs-0c0c0c?style=for-the-badge&logo=nestjs&logoColor=a67cff)
-![Socket.io](https://img.shields.io/badge/socket.io-0c0c0c?style=for-the-badge&logo=socket.io&logoColor=00bfff)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)
 
 ### 🗃️ Databases & Hosting
-![MongoDB](https://img.shields.io/badge/MongoDB-0c0c0c?style=for-the-badge&logo=mongodb&logoColor=00bfff)
-![PostgreSQL](https://img.shields.io/badge/postgresql-0c0c0c?style=for-the-badge&logo=postgresql&logoColor=a67cff)
-![Firebase](https://img.shields.io/badge/firebase-0c0c0c?style=for-the-badge&logo=firebase&logoColor=00bfff)
-![GCP](https://img.shields.io/badge/google_cloud-0c0c0c?style=for-the-badge&logo=google-cloud&logoColor=a67cff)
-![Cloudflare](https://img.shields.io/badge/cloudflare-0c0c0c?style=for-the-badge&logo=cloudflare&logoColor=00bfff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-039BE5.svg?style=for-the-badge&logo=firebase)
+![GCP](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### 🎨 Design & Animation
-![Blender](https://img.shields.io/badge/blender-0c0c0c?style=for-the-badge&logo=blender&logoColor=F5792A)
-![After Effects](https://img.shields.io/badge/after_effects-0c0c0c?style=for-the-badge&logo=adobe-after-effects&logoColor=a67cff)
-![Illustrator](https://img.shields.io/badge/illustrator-0c0c0c?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00)
-![Figma](https://img.shields.io/badge/figma-0c0c0c?style=for-the-badge&logo=figma&logoColor=a67cff)
+![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Illustrator](https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -94,7 +94,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Patypatii&theme=onestar&no-frame=true&row=1&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Patypatii&theme=gradient&no-frame=true&row=1&margin-w=8&title_color=00bfff&bg_color=0c0c0c" />
 </p>
 
 ---
@@ -107,11 +107,11 @@
 
 ---
 
-### 🔢 Visitor Counter (Updated with brand colors)
+### 🔢 Visitor Counter (Styled)
 
 <p align="center">
   <a href="https://github.com/Patypatii">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Patypatii&count_bg=00bfff&title_bg=0c0c0c&icon=github.svg&icon_color=ffffff&title=visitors&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Patypatii&count_bg=00bfff&title_bg=a67cff&icon=github.svg&icon_color=ffffff&title=visitors&edge_flat=false"/>
   </a>
 </p>
 
@@ -119,7 +119,7 @@
 
 <!-- ⭐ Follow & Star Animated Message -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=A67CFF&center=true&vCenter=true&width=600&lines=%E2%AD%90+Enjoying+my+work%3F+Give+it+a+Star!;%F0%9F%9A%80+Follow+me+for+more+awesome+projects!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00BFFF,A67CFF&center=true&vCenter=true&width=600&lines=%E2%AD%90+Enjoying+my+work%3F+Give+it+a+Star!;%F0%9F%9A%80+Follow+me+for+more+awesome+projects!" />
 </h3>
 
 <p align="center">
