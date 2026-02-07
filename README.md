@@ -20,7 +20,7 @@ Designing and shipping production-grade web, mobile, and visual systems
 
 I work at the intersection of **frontend engineering, backend architecture, and motion design**, delivering systems that are technically sound, visually precise, and built for real-world use.
 
-- Specialized in **React**, **React Native**, **Node.js**, and **NestJS**
+- Specialized in **React**, **React Native**, **Node.js**, **Python** and **NestJS**
 - Professional **3D animation and motion design** using Blender and Adobe tools
 - Focused on **clean architecture, performance, and UX precision**
 - Experience building **scalable, AI-assisted products and workflows**
@@ -125,6 +125,46 @@ I work at the intersection of **frontend engineering, backend architecture, and 
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00bfff" />
   </a>
 </p>
+
+---
+
+---
+
+## Selected Live Work
+
+<!-- Apiskan -->
+<div style="border-radius:14px; padding:20px; margin-bottom:20px; background:linear-gradient(135deg,#00bfff33,#0d1117); box-shadow:0 0 25px rgba(0,191,255,0.35); border:1px solid #00bfff;">
+
+<strong>Apiskan</strong><br/>
+<span>API & Messaging Automation Platform</span>
+
+<p>
+Apiskan is a live platform designed for API-based messaging and automation workflows.  
+I handled system architecture, backend integrations, and frontend delivery, focusing on reliability, scalability, and clean user experience.
+</p>
+
+<a href="https://apiskan.website" target="_blank">
+  <img src="https://img.shields.io/badge/View_Live_Site-00bfff?style=for-the-badge" />
+</a>
+
+</div>
+
+<!-- Webnixke -->
+<div style="border-radius:14px; padding:20px; margin-bottom:20px; background:linear-gradient(135deg,#00bfff33,#0d1117); box-shadow:0 0 25px rgba(0,191,255,0.35); border:1px solid #00bfff;">
+
+<strong>Webnixke</strong><br/>
+<span>Business & Digital Solutions Platform</span>
+
+<p>
+Webnixke is a production website built to represent digital services and online presence for clients.  
+I implemented the frontend structure, performance optimizations, and deployment, ensuring clarity, speed, and professional presentation.
+</p>
+
+<a href="https://webnixke.com" target="_blank">
+  <img src="https://img.shields.io/badge/View_Live_Site-00bfff?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
