@@ -51,21 +51,18 @@ I work at the intersection of **frontend engineering, backend architecture, and 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Patypatii&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9&icon_color=00bfff" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Patypatii&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9&icon_color=00bfff&cache_seconds=21600" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patypatii&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Patypatii&hide_border=true&background=0d1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&cache_seconds=21600" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Patypatii&hide_border=true&background=0d1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=c9d1d9&dates=c9d1d9" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Patypatii&bg_color=0d1117&color=c9d1d9&line=00bfff&point=00bfff&area=true&hide_border=true&cache_seconds=21600" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Patypatii&bg_color=0d1117&color=c9d1d9&line=00bfff&point=00bfff&area=true&hide_border=true" />
-</p>
 
 ---
 
