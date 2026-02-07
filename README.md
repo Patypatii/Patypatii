@@ -10,39 +10,39 @@
 ---
 
 ## 👋 About
-I build **high-performance web & mobile apps** and create **3D motion branding** (logos + product ads).  
-I love projects that mix **frontend engineering + visuals + AI workflows**.
+I build **high-performance web and mobile applications** and create **3D motion branding** for products and technology-driven brands.  
+I enjoy projects that combine **frontend engineering, visual storytelling, and AI-powered workflows**.
 
 - ⚡ Frontend: **React, Next.js, React Native (Expo)**
 - 🧩 Backend: **Node.js, NestJS, APIs, WebSockets**
-- 🎬 3D/Motion: **Blender, After Effects, Illustrator, Figma**
-- 📚 Currently learning: **C# / .NET**
+- 🎬 3D / Motion: **Blender, After Effects, Illustrator, Figma**
+- 📚 Currently learning: **C# and .NET** for enterprise-level development
 
 ---
 
 ## 💼 Services (Freelance / Agency)
-✅ 3D Logo Animation (Tech + Brands)  
-✅ Product Animation Ads (Short-form + Website headers)  
-✅ Landing Pages & Dashboards (Conversion-focused UI)  
-✅ Mobile Apps (Expo / React Native)
+✅ 3D Logo Animation for tech startups and brands  
+✅ Product Animation Ads (short-form content & website headers)  
+✅ Landing Pages and Dashboards (conversion-focused UI)  
+✅ Mobile Applications using Expo / React Native  
 
-> Want a project done? Email me or DM on LinkedIn.
+> Interested in working together? Reach out via email or LinkedIn.
 
 ---
 
 ## 🔥 Featured Work
-- 🎥 **3D Pixels Showreel** → *(add your link here)*
-- 🧠 **PixelTube (YouTube-like portfolio site)** → *(repo/link)*
-- 🧩 **Prescripto (MERN / Tailwind / Cloudinary uploads)** → *(repo/link)*
-- 🛠️ **Chrome Extensions (automation + scraping tools)** → *(repo/link)*
+- 🎥 **3D Pixels Showreel** → *(add your link here)*  
+- 🧠 **PixelTube** – YouTube-style portfolio platform → *(repo/link)*  
+- 🧩 **Prescripto** – MERN app with Tailwind & Cloudinary → *(repo/link)*  
+- 🛠️ **Chrome Extensions** – automation & web scraping tools → *(repo/link)*  
 
 ---
 
 ## 🧰 Tech Stack
 **Frontend:** React • Next.js • React Native • Tailwind  
 **Backend:** Node.js • NestJS • Socket.io  
-**DB/Cloud:** MongoDB • PostgreSQL • Firebase • GCP • Cloudflare  
-**Design/Motion:** Blender • After Effects • Illustrator • Figma
+**DB / Cloud:** MongoDB • PostgreSQL • Firebase • GCP • Cloudflare  
+**Design / Motion:** Blender • After Effects • Illustrator • Figma  
 
 ---
 
