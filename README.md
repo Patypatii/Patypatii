@@ -4,17 +4,48 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 </div>
 
 ---
 
 ## 🧠 About Me
 
-- 🚀 Tech-driven software developer and 3D motion artist  
-- 🛠️ Specialized in **React**, **React Native**, **Node.js**, **NestJS**, and **3D animation** using **Blender and Adobe Suite**  
-- 🌍 Currently building tools that combine **AI, motion design, and high-performance frontend experiences**  
-- 📚 Actively learning **C#** and **.NET** to strengthen backend and enterprise application development skills  
+<div align="center">
+
+🚀 **Software Developer & 3D Motion Artist**  
+🎯 Focused on **production-grade systems + cinematic visuals**  
+⚡ Bridging **engineering, motion, and AI-driven experiences**
+
+</div>
+
+- 🛠️ Expert in **React**, **React Native**, **Node.js**, **NestJS**
+- 🎬 Professional **3D Animation & Motion Design** (Blender + Adobe)
+- 🌍 Building scalable products that merge **AI logic, visuals, and performance**
+- 🧩 Strong emphasis on **architecture, speed, and UX polish**
+
+---
+
+## 👁️ What I Build (Visual Overview)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Apps-React_/_Next.js-00bfff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile_Apps-React_Native-00bfff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend_APIs-NestJS_/_Node-00bfff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/3D_Animation-Blender_&_AE-00bfff?style=for-the-badge" />
+</p>
+
+---
+
+## 🎬 Visual Capabilities
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,mongodb,postgres,firebase,blender,figma" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" />
+</p>
 
 ---
 
@@ -39,11 +70,16 @@
 
 ## 🚀 Achievements
 
-- 🏆 Recognized for combining **software development and 3D animation** in production-ready projects  
-- 🧠 Built multiple **Chrome extensions** for automation and web scraping  
-- 📽️ Delivered **high-quality 3D logo animations** for technology-focused brands  
-- 🧑‍🎓 Certified in **3D Animation** (Dedan Kimathi University)  
-- 💼 Founder of **3D Pixels** — a creative studio focused on motion design and tech branding  
+<p align="center">
+  <img src="https://img.shields.io/badge/3D_+_Code-Specialist-00bfff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chrome_Extensions-Automation_&_Scraping-00bfff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech_Brands-3D_Logo_Animation-00bfff?style=for-the-badge" />
+</p>
+
+- 🧠 Built **automation & scraping Chrome extensions**
+- 📽️ Delivered **professional 3D logo & product animations**
+- 🧑‍🎓 Certified in **3D Animation** (Dedan Kimathi University)
+- 💼 Founder of **3D Pixels** — motion design & tech branding studio
 
 ---
 
@@ -59,13 +95,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)
-
-### 🗃️ Databases & Hosting
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-039BE5.svg?style=for-the-badge&logo=firebase)
-![GCP](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### 🎨 Design & Animation
 ![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
@@ -113,18 +142,17 @@
   <img src="https://realdem.github.io/visitor-badge/github?username=Patypatii&style=flat&color=00bfff&label=Visitors" />
 </p>
 
-<!-- ⭐ Follow & Star Animated Message -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00bfff&center=true&vCenter=true&width=600&lines=%E2%AD%90+Enjoying+my+work%3F+Give+it+a+Star!;%F0%9F%9A%80+Follow+me+for+more+awesome+projects!" alt="Follow and Star Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00bfff&center=true&vCenter=true&width=600&lines=%E2%AD%90+Enjoying+my+work%3F+Give+it+a+Star!;%F0%9F%9A%80+Follow+me+for+more+awesome+projects!" />
 </h3>
 
 <p align="center">
   <a href="https://github.com/Patypatii?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Patypatii?style=social" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/Patypatii?style=social" />
   </a>
   &nbsp;
   <a href="https://github.com/Patypatii">
-    <img src="https://img.shields.io/github/followers/Patypatii?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Patypatii?label=Follow&style=social" />
   </a>
 </p>
 
