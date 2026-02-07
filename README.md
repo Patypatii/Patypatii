@@ -42,6 +42,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,mongodb,postgres,firebase,blender,figma" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" />
+</p>
 
 ---
 
