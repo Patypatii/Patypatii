@@ -12,18 +12,16 @@
 ## Profile
 
 <div align="center">
-
 <strong>Software Developer & 3D Motion Engineer</strong><br/>
 Designing and shipping production-grade web, mobile, and visual systems
-
 </div>
 
 I work at the intersection of **frontend engineering, backend architecture, and motion design**, delivering systems that are technically sound, visually precise, and built for real-world use.
 
-- Specialized in **React**, **React Native**, **Node.js**, and **NestJS**
+- Specialized in **React**, **React Native**, **Node.js**, **NestJS**, and **Python**
 - Professional **3D animation and motion design** using Blender and Adobe tools
 - Focused on **clean architecture, performance, and UX precision**
-- Experience building **scalable, AI-assisted products and workflows**
+- Experience building **scalable, AI-assisted products, APIs, and automation workflows**
 
 ---
 
@@ -32,7 +30,7 @@ I work at the intersection of **frontend engineering, backend architecture, and 
 <p align="center">
   <img src="https://img.shields.io/badge/Web_Applications-React_&_Next.js-00bfff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mobile_Applications-React_Native-00bfff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend_Systems-Node_&_NestJS-00bfff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend_Systems-Node_NestJS_Python-00bfff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/3D_Motion-Blender_&_After_Effects-00bfff?style=for-the-badge" />
 </p>
 
@@ -41,8 +39,46 @@ I work at the intersection of **frontend engineering, backend architecture, and 
 ## Capabilities Snapshot
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,mongodb,postgres,firebase,blender,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,python,mongodb,postgres,firebase,blender,figma" />
 </p>
+
+---
+
+## Selected Live Work
+
+<!-- Apiskan -->
+<div style="border-radius:14px; padding:20px; margin-bottom:20px; background:linear-gradient(135deg,#00bfff33,#0d1117); box-shadow:0 0 25px rgba(0,191,255,0.35); border:1px solid #00bfff;">
+
+<strong>Apiskan</strong><br/>
+<span>API & Messaging Automation Platform</span>
+
+<p>
+Apiskan is a live platform designed for API-based messaging and automation workflows.  
+I handled system architecture, backend integrations, and frontend delivery, focusing on reliability, scalability, and clean user experience.
+</p>
+
+<a href="https://apiskan.website" target="_blank">
+  <img src="https://img.shields.io/badge/View_Live_Site-00bfff?style=for-the-badge" />
+</a>
+
+</div>
+
+<!-- Webnixke -->
+<div style="border-radius:14px; padding:20px; margin-bottom:20px; background:linear-gradient(135deg,#00bfff33,#0d1117); box-shadow:0 0 25px rgba(0,191,255,0.35); border:1px solid #00bfff;">
+
+<strong>Webnixke</strong><br/>
+<span>Business & Digital Solutions Platform</span>
+
+<p>
+Webnixke is a production website built to represent digital services and online presence for clients.  
+I implemented the frontend structure, performance optimizations, and deployment, ensuring clarity, speed, and professional presentation.
+</p>
+
+<a href="https://webnixke.com" target="_blank">
+  <img src="https://img.shields.io/badge/View_Live_Site-00bfff?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
@@ -62,34 +98,6 @@ I work at the intersection of **frontend engineering, backend architecture, and 
 
 ---
 
-## Metrics Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patypatii&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Patypatii&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Patypatii&theme=github_dark" />
-</p>
-
----
-
-## Professional Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Discipline-Software_Engineering_&_3D-00bfff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deliverables-Chrome_Extensions_&_Automation-00bfff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Brand_Work-3D_Logo_&_Product_Animation-00bfff?style=for-the-badge" />
-</p>
-
-- Designed and delivered **Chrome extensions** supporting automation and data workflows  
-- Produced **3D logo and product animations** for technology-focused brands  
-- Certified in **3D Animation**  
-- Founder of **3D Pixels**, a motion and technology studio  
-
----
-
 ## Technology Stack
 
 ### Frontend
@@ -101,6 +109,7 @@ I work at the intersection of **frontend engineering, backend architecture, and 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00bfff)
 ![NestJS](https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=00bfff)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00bfff)
 
 ### Databases & Infrastructure
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00bfff)
